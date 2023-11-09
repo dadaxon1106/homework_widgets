@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
         useMaterial3: true,
         // colorScheme: ColorScheme.fromSeed(seedColor: Colors.green),
       ),
-      home: const ShopPage(),
+      home: const RequestPage(),
     );
   }
 }

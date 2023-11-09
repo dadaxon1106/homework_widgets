@@ -8,7 +8,7 @@ class ShopPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: Colors.teal.shade200,
       appBar: AppBar(
-        surfaceTintColor: Colors.red,
+        surfaceTintColor: Colors.yellow,
         backgroundColor: Colors.teal.shade200,
         toolbarHeight: 80,
       ),
